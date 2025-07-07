@@ -1,13 +1,13 @@
-- Run ```composer install``` for install dependecies.
-- Run ```php artisan shield:super-admin``` for create Super Admin.
-- Access ```http://127.0.0.1/admin``` for login.
+1. Run ```composer install``` for install dependecies.
+2. Run ```php artisan shield:super-admin``` for create Super Admin.
+3. Access ```http://127.0.0.1/admin``` for login.
 
 - Features:
-1. Create log
-2. Verification log
-3. Create user
-4. Show stats
-5. Show line chart
+  - Create log
+  - Verification log
+  - Create user
+  - Show stats
+  - Show line chart
 
 - Techstack: Laravel Filament
 
